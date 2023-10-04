@@ -318,10 +318,9 @@
                 "inputs": {
                     "body": {
                         "Body": "<p>@{variables('html')}</p>",
-                        "Cc": "Omar.amer@lvs1.com",
                         "Importance": "High",
                         "Subject": "List of Secrets & Certificates Near Or Expired",
-                        "To": "Norman.McGregor@lvs1.com"
+                        "To": "PUT-YOUR-EMAIL-HERE@DOMAIN.com"
                     },
                     "host": {
                         "connection": {
